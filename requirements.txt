@@ -100,7 +100,7 @@ PyYAML==5.4.1
 QScintilla==2.11.6
 readme-renderer==41.0
 reportlab==3.6.8
-requests==2.25.1
+requests==2.31.0
 requests-toolbelt==1.0.0
 rfc3986==2.0.0
 rich==13.5.2
