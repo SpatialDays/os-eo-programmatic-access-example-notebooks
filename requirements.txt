@@ -99,7 +99,7 @@ pyxdg==0.27
 PyYAML==5.4.1
 QScintilla==2.11.6
 readme-renderer==41.0
-reportlab==3.6.8
+reportlab==3.6.13
 requests==2.25.1
 requests-toolbelt==1.0.0
 rfc3986==2.0.0
